@@ -5,8 +5,8 @@
  * Created on July 2, 2016, 2:41 PM
  */
 
-#include "LinkedList.hpp"
-#include "Data.hpp"
+#include "../Header Files/LinkedList.hpp"
+#include "../Header Files/Data.hpp"
 #include <new>
 
 LinkedList::LinkedList() {
